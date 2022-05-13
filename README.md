@@ -1,2 +1,2 @@
 # Social-Network-Analysis
-Social Network Analysis Using Twitter Crawl Data
+Bachelor/Social Network Analysis Using Twitter Crawl Data
